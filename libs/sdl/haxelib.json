@@ -1,0 +1,10 @@
+{
+	"name" : "hlsdl",
+	"url" : "https://github.com/HaxeFoundation/hl/tree/master/libs/sdl",
+	"license" : "BSD",
+	"contributors" : ["ncannasse"],
+	"description" : "SDL3/GL support for Haxe/HL.",
+	"version" : "2.0.0",
+	"releasenote" : "Updated to SDL3 API",
+	"dependencies": {}
+}
